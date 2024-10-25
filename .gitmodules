@@ -1,0 +1,3 @@
+[submodule "02- basic-shell"]
+	path = 02- basic-shell
+	url = https://github.com/samshx606/Basic-Shell
